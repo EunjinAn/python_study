@@ -1,0 +1,10 @@
+how to work with teams on Git
+git log --oneline --all --graph
+
+Local repository and remote repository.
+we can work together.
+one way can pull and other way can push.
+
+I do not know what exactly it change.
+
+
